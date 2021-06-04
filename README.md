@@ -8,6 +8,7 @@ The additional script, [gradients.py](Dev/gradients.py), generates beautiful gra
 
 ![alt text](Screenshots/13.png)
 
+![alt text](Screenshots/14.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
