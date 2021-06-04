@@ -4,6 +4,8 @@ Graphic Integrator is a Python/Swift tool I've developed as a part of my univers
 
 It allows the user to integrate and experimentally calculate the area of a preset function on a given interval and see the dynamic of how the function covers its area on a plane.
 
+The input of the parameters happens through a basic SwiftUI application window.
+
 The additional script, [gradients.py](Dev/gradients.py), generates beautiful gradients that the main script further uses to fill the area covered by the function.
 
 ![alt text](Screenshots/13.png)
