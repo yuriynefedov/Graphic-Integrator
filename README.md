@@ -6,11 +6,14 @@ It allows the user to integrate and experimentally calculate the area of a prese
 
 The additional script, [gradients.py](Dev/gradients.py), generates beautiful gradients that the main script further uses to fill the area covered by the function.
 
+
 ![alt text](Screenshots/13.png)
 Illustration 1. Graphing the exponential
 
+
 ![alt text](Screenshots/14.png)
 Illustration 2. Graphing the parabola
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
