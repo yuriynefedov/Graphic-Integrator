@@ -1,6 +1,6 @@
 # Graphic Integrator
 
-Graphic Integrator is a Python/Swift tool I've developed as a part of my university project. 
+Graphic Integrator is a Python/Swift tool I developed as a part of my university project. 
 
 It allows the user to integrate and experimentally calculate the area of a preset function on a given interval and see the dynamic of how the function covers its area on a plane.
 
